@@ -64,3 +64,10 @@ img[src*="/images/image-qr-code.png"] {
 .attribution {
  margin-top: 25px;
 }
+
+@media (max-width:600px) {
+  body {
+    width: 30vh;
+  }
+}
+
